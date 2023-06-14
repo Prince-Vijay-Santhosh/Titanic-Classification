@@ -20,14 +20,16 @@ Model Evaluation: Evaluating the performance of each trained model using the tes
 ## Results
 
 The accuracy scores obtained for each model on the training set are as follows:
-Logistic Regression: 0.80
-K Nearest Neighbor: 0.85
-Support Vector Machine (Linear Classifier): 0.79
-Support Vector Machine (RBF Classifier): 0.84
-Gaussian Naive Bayes: 0.76
-Decision Tree Classifier: 0.98
-Random Forest Classifier: 0.97
-Conclusion
+- Logistic Regression: 0.80
+- K Nearest Neighbor: 0.85
+- Support Vector Machine (Linear Classifier): 0.79
+- Support Vector Machine (RBF Classifier): 0.84
+- Gaussian Naive Bayes: 0.76
+- Decision Tree Classifier: 0.98
+- Random Forest Classifier: 0.97
+  
+## Conclusion
+
 Based on the evaluation results, the Decision Tree Classifier and Random Forest Classifier achieved the highest training accuracy scores. These models can be further evaluated and fine-tuned to improve their performance.
 
 For more details, please refer to the Jupyter notebook containing the code implementation.
