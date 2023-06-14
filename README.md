@@ -1,4 +1,4 @@
-# Titanic-Classification
+# Titanic-Classification (Bharat Intern Internship Project)
 
 This project aims to predict the survival of passengers aboard the Titanic using machine learning techniques. The dataset used for this project is the Titanic dataset, which contains information about the passengers such as their age, gender, socio-economic status, and more.
 
